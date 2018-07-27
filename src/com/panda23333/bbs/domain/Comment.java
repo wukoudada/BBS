@@ -1,4 +1,4 @@
-package com.lizi.bbs.domain;
+package com.panda23333.bbs.domain;
 
 import java.util.Date;
 import java.util.Objects;

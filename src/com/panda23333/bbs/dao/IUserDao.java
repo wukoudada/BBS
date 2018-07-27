@@ -1,4 +1,4 @@
-package com.lizi.bbs.dao;
+package com.panda23333.bbs.dao;
 
 public interface IUserDao {
 
