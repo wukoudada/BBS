@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f22dfb9d-649d-4e71-9a02-df460a0e146c" name="Default" comment="">
+    <list default="true" id="f22dfb9d-649d-4e71-9a02-df460a0e146c" name="Default" comment="Readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,11 +14,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PostDaoImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PostDaoImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/panda/bbs/dao/impl/PostDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="162">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -73,8 +88,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="369" />
-    <option name="y" value="24" />
+    <option name="x" value="344" />
+    <option name="y" value="25" />
     <option name="width" value="1069" />
     <option name="height" value="686" />
   </component>
@@ -217,7 +232,7 @@
       <workItem from="1532680480467" duration="68000" />
       <workItem from="1532681073322" duration="17000" />
       <workItem from="1532684483760" duration="59000" />
-      <workItem from="1532690983095" duration="3134000" />
+      <workItem from="1532690983095" duration="3376000" />
     </task>
     <task id="LOCAL-00001" summary="JDBC">
       <created>1532694896414</created>
@@ -226,14 +241,28 @@
       <option name="project" value="LOCAL" />
       <updated>1532694896414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JDBC">
+      <created>1532696261395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532696261395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Readme">
+      <created>1532696413909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532696413909</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6611000" />
+    <option name="totallyTimeSpent" value="6853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="369" y="24" width="1069" height="686" extended-state="0" />
+    <frame x="344" y="25" width="1069" height="686" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -275,7 +304,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JDBC" />
-    <option name="LAST_COMMIT_MESSAGE" value="JDBC" />
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/panda23333/bbs/dao/IUserDao.java" />
@@ -413,8 +443,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/panda/bbs/dao/impl/PostDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="162">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
