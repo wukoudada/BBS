@@ -8,6 +8,7 @@ public class User {
     private String password; // 密码
     private String nickname; // 昵称
     private String email; // 邮箱
+    private String bio; // 个性签名
 
     public User() {
     }
