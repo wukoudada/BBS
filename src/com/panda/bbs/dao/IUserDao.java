@@ -1,4 +1,4 @@
-package com.panda23333.bbs.dao;
+package com.panda.bbs.dao;
 
 public interface IUserDao {
 

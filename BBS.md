@@ -1,8 +1,8 @@
 # BBS 系统
 
-## BBS 系统功能设计
+基于JavaWeb实现的微社区管理系统。BBS（Bulletin Board System，电子布告栏系统）。
 
-BBS（Bulletin Board System，电子布告栏系统）。
+## BBS 系统功能设计
 
 **用户（User）**：
 
@@ -10,7 +10,7 @@ BBS（Bulletin Board System，电子布告栏系统）。
 - 自动登陆（AutoLogin）：Cookie，
 - 注册（Register）：正则表达式，
 
-**博客（Post）**：
+**帖子（Post）**：
 
 - 读帖（read）：查询
 - 发帖（write）：插入
@@ -19,6 +19,7 @@ BBS（Bulletin Board System，电子布告栏系统）。
 - 点赞（rate）：
 - 关注（follow）：
 - 分享（share）：
+- 收藏（collection）：
 - 评论（comment）：
 - 阅读量（post_views）：
 - 分页（pagenation）：
@@ -33,5 +34,5 @@ BBS（Bulletin Board System，电子布告栏系统）。
 
 - **分类（categories）**：分类id（CategoryID）#，分类名称（CategoryName），
 
-- **标签（tags）**：标签id（tagID）#，标签名（tagName），
+- **标签（tags）**：标签id（tagID）#，标签名（tagName）。
 

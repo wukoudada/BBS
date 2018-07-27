@@ -1,4 +1,4 @@
-package com.panda23333.bbs.dao.impl;
+package com.panda.bbs.dao.impl;
 
 public class UserDaoImpl {
 
